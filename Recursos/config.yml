@@ -1,0 +1,17 @@
+name: "Juan Daniel Lastra M"
+picture: "../Recursos/foto.jpg" # paste an img at root of project or an image source url
+bio: "Cientifico de datos - Programador Backend jr - Economista"
+meta:
+  lang: "es"
+  description: "Cientifico de datos - Programador Backend jr - Economista"
+  title: "Juan Daniel Lastra M"
+  author: "Juan Daniel Lastra M"
+  siteUrl: "https://lucasnevespereira.github.io"
+links:
+  - name: "Github"
+    url: "https://github.com/juanlastra"
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/juan-lastra/"
+  - name: "Pagina en Facebook"
+    url: "https://www.facebook.com/profile.php?id=61563449723128"
+theme: "custom"
