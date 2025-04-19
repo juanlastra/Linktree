@@ -73,7 +73,7 @@ func GenerarHTML(config *ConfiSitio) error {
 	}
 
 	// crea el nuevo archivo Index
-	Salidaarchivo, err := os.Create("./Resultados/salida.html")
+	Salidaarchivo, err := os.Create("./index.html")
 
 	if err != nil {
 		return err

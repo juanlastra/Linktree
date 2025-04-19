@@ -1,10 +1,10 @@
 .PHONY: clean site
 
 clean:
-    @echo "Cleaning site..."
-    rm -rf Resultados/salida.html
-    rm -rf assets
+	@echo "Cleaning site..."
+	rm -rf index.html
+	rm -rf assets
 
 site: clean
-    @echo "Building site..."
-    go run main.go
+	@echo "Building site..."
+	go run main.go
